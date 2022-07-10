@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" filepath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPlugins.iml" filepath="$PROJECT_DIR$/MyPlugins.iml" />
     </modules>

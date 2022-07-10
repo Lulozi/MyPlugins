@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" afterDir="false" />
+    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="V0.2 Alpha">
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +39,9 @@
     "jdk.selected.JAVA_MODULE": "temurin-11",
     "last_opened_file_path": "G:/GitRepository/MyPlugins/Minecraft/spigot-1.16.5.jar",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "工件",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.20574713"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -54,6 +54,14 @@
       <updated>1657451693806</updated>
       <workItem from="1657451694994" duration="155000" />
     </task>
+    <task id="LOCAL-00001" summary="V0.2 Alpha">
+      <created>1657456635731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657456635731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V0.2 Alpha" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.2 Alpha" />
   </component>
 </project>
