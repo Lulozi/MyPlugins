@@ -1,7 +1,7 @@
 # Minecraft
 
 ## 介绍
-Minecraft mods 开发
+Minecraft mods/plugins 开发
 
 
 #### 软件架构说明
@@ -17,11 +17,14 @@ Minecraft mods 开发
 #### 使用说明
 
 1. 
-
+2. 
+3. 
+4. 
+5. 
 
 #### 参与贡献
 
-1.  By：LUlo
+1.  By：Lulo
 
 
 
