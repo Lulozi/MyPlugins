@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="无">
+    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="V1.0">
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyEventProcessor.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/kill.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_16_5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minecraft/spigot-1.16.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPlugins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlugins.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <workItem from="1658133822835" duration="2183000" />
       <workItem from="1658138479684" duration="48000" />
       <workItem from="1658138536425" duration="5438000" />
-      <workItem from="1658144785162" duration="75000" />
+      <workItem from="1658144785162" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="V0.2 Alpha">
       <created>1657456635731</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657457617971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="alpha v0.3">
+      <created>1658145089808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658145089808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +168,9 @@
     <MESSAGE value="V0.2 Alpha" />
     <MESSAGE value="登录插件V0.01 Alpha Testing" />
     <MESSAGE value="无" />
-    <option name="LAST_COMMIT_MESSAGE" value="无" />
+    <MESSAGE value="alpha v0.3" />
+    <MESSAGE value="V1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
