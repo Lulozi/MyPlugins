@@ -7,4 +7,5 @@ public class HelloWorld extends JavaPlugin {
     public void onEnable() {
         getLogger().info("Hello, world!");
     }
+    
 }

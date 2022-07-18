@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="V0.2 Alpha">
-      <change afterPath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" afterDir="false" />
+    <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="无">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyEventProcessor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/kill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_16_5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minecraft/spigot-1.16.5.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +31,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelloWorld/src/plugin.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2BkYkOeHEIjnYLfJSEDBv2eumBB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +55,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_opened_file_path": "G:/GitRepository/MyPlugins/Minecraft/spigot-1.16.5.jar",
+    "last_opened_file_path": "G:/GitRepository/Minecraft/spigot-1.16.5.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "库",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20574713"
+    "project.structure.side.proportion": "0.20574713",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -53,6 +74,16 @@
       <option name="presentableId" value="Default" />
       <updated>1657451693806</updated>
       <workItem from="1657451694994" duration="155000" />
+      <workItem from="1657522017738" duration="975000" />
+      <workItem from="1657523041020" duration="4587000" />
+      <workItem from="1657529318888" duration="1942000" />
+      <workItem from="1657952130552" duration="451000" />
+      <workItem from="1657952616799" duration="3325000" />
+      <workItem from="1657956463700" duration="612000" />
+      <workItem from="1658133822835" duration="2183000" />
+      <workItem from="1658138479684" duration="48000" />
+      <workItem from="1658138536425" duration="5438000" />
+      <workItem from="1658144785162" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="V0.2 Alpha">
       <created>1657456635731</created>
@@ -61,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657456635731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="登录插件V0.01 Alpha Testing">
+      <created>1657457600480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457600480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="无">
+      <created>1657457617971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457617971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +162,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V0.2 Alpha" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.2 Alpha" />
+    <MESSAGE value="登录插件V0.01 Alpha Testing" />
+    <MESSAGE value="无" />
+    <option name="LAST_COMMIT_MESSAGE" value="无" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
