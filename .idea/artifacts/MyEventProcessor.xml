@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="MyEventProcessor">
+  <artifact type="jar" build-on-make="true" name="MyEventProcessor">
     <output-path>$PROJECT_DIR$/out/artifacts/MyEventProcessor</output-path>
     <root id="archive" name="MyEventProcessor.jar">
       <element id="module-output" name="MyEventProcessor" />

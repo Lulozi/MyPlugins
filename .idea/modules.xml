@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" filepath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPlugins.iml" filepath="$PROJECT_DIR$/MyPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperKill/SuperKill.iml" filepath="$PROJECT_DIR$/SuperKill/SuperKill.iml" />
     </modules>
   </component>
 </project>

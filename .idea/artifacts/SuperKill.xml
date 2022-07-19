@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SuperKill">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperKill</output-path>
+    <root id="archive" name="SuperKill.jar">
+      <element id="module-output" name="SuperKill" />
+    </root>
+  </artifact>
+</component>

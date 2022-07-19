@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc80c5f-a353-4132-9101-96b67fe0d0cf" name="变更" comment="V1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyEventProcessor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/kill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HarmonyAuth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyPlugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SuperKill.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/lulo/harmonyauth/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/lulo/harmonyauth/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/lulo/harmonyauth/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/lulo/harmonyauth/HarmonyAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/lulo/harmonyauth/LoginData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarmonyAuth/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/Listener/PlayerChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/Listener/PlayerJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKill/SuperKill.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKill/src/lulo/superkill/Commander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKill/src/lulo/superkill/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKill/src/lulo/superkill/SuperKill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperKill/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MyEventProcessor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MyEventProcessor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_16_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HarmonyAuth/HarmonyAuth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/lulo/helloworld/kill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minecraft/spigot-1.16.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyEventProcessor/MyEventProcessor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyEventProcessor/src/lulo/MyEventProcessor/MyEventProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPlugins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyPlugins.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +46,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Minecraft" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -52,16 +87,22 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_opened_file_path": "G:/GitRepository/Minecraft/spigot-1.16.5.jar",
+    "last_opened_file_path": "G:/GitRepository/VSCode_Dark.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "库",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.20574713",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GitRepository\MyPlugins\HarmonyAuth\src" />
+      <recent name="G:\GitRepository\MyPlugins" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -80,7 +121,16 @@
       <workItem from="1658133822835" duration="2183000" />
       <workItem from="1658138479684" duration="48000" />
       <workItem from="1658138536425" duration="5438000" />
-      <workItem from="1658144785162" duration="422000" />
+      <workItem from="1658144785162" duration="15480000" />
+      <workItem from="1658213119736" duration="1057000" />
+      <workItem from="1658214217731" duration="799000" />
+      <workItem from="1658215907148" duration="132000" />
+      <workItem from="1658216048558" duration="1806000" />
+      <workItem from="1658217892565" duration="995000" />
+      <workItem from="1658218914254" duration="42000" />
+      <workItem from="1658218965155" duration="28000" />
+      <workItem from="1658219001995" duration="970000" />
+      <workItem from="1658219988693" duration="4147000" />
     </task>
     <task id="LOCAL-00001" summary="V0.2 Alpha">
       <created>1657456635731</created>
@@ -110,11 +160,43 @@
       <option name="project" value="LOCAL" />
       <updated>1658145089808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="V1.0">
+      <created>1658145287070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658145287070</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V1.0">
+      <created>1658145316747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658145316747</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1658145565812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658145565812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -127,7 +209,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Minecraft" />
+                        <option value="JoinGame" />
                       </list>
                     </value>
                   </entry>
@@ -170,7 +252,7 @@
     <MESSAGE value="无" />
     <MESSAGE value="alpha v0.3" />
     <MESSAGE value="V1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

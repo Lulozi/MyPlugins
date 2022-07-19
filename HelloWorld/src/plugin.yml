@@ -2,14 +2,3 @@ name: HelloWorld
 main: lulo.helloworld.HelloWorld
 version: 1.0
 api-version: 1.16
-# YAML 中的注释，一行有效
-# 以上是插件基本信息，以下是命令注册
-commands:
-  superkill: # 命令的基本名，请不要使用奇怪的字符！
-    aliases: # 别名，方便玩家使用
-      - "skill"
-      - 'sk'
-    usage: "/superkill <player-name>" # 用法
-    description: "Kill some player" # 描述
-    permission: "minecraft.command.kill" # 需要的权限，通常不用
-    permission-message: "Only killer can do that!" # 无权限返回的消息，通常不用

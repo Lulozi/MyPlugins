@@ -13,6 +13,7 @@ public class MyEventProcessor extends JavaPlugin implements Listener {
             e.setCancelled(true);
         }
     }
+    @Override
     public void onEnable(){
         Bukkit.getPluginManager().registerEvents(new MyEventProcessor(), this);
     }

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HarmonyAuth">
+    <output-path>$PROJECT_DIR$/out/artifacts/HarmonyAuth</output-path>
+    <root id="archive" name="HarmonyAuth.jar">
+      <element id="module-output" name="HarmonyAuth" />
+    </root>
+  </artifact>
+</component>
