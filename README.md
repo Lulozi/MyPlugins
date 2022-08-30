@@ -8,12 +8,12 @@ plugins 开发
 基于JAVA
 
 #### 插件安装教程
-### Minecraft
+##### Minecraft
 1.  打开服务器根目录
 2.  将插件放入Pulgins
 3.  重启服务器，修改配置文件
 4.  完成
-### other
+##### other
 1.
 
 #### 使用说明
